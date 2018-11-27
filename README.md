@@ -11,8 +11,6 @@ C++ FizzBuzz done With makefile to compile it
   - Just run "make" from the command line to compile it into
     an executable file named zzz.exe
 
-C Fizzbuzz in progress
-
 Ruby FizzBuzz in progress
 
 Java FizzBuzz in progress
