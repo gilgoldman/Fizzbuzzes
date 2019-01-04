@@ -1,4 +1,4 @@
-# A makefile to compile Barta's thingy
+# A makefile to compile the C++ files
 # Cause I'm lazy
 
 ##############
